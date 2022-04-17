@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://rkgoudra.github.io/csb-qucsnw/static/css/main.d13cdb17.chunk.css",
+    "main.js": "https://rkgoudra.github.io/csb-qucsnw/static/js/main.3bdbceb9.chunk.js",
+    "main.js.map": "https://rkgoudra.github.io/csb-qucsnw/static/js/main.3bdbceb9.chunk.js.map",
+    "runtime-main.js": "https://rkgoudra.github.io/csb-qucsnw/static/js/runtime-main.50997dc8.js",
+    "runtime-main.js.map": "https://rkgoudra.github.io/csb-qucsnw/static/js/runtime-main.50997dc8.js.map",
+    "static/js/2.b21dc211.chunk.js": "https://rkgoudra.github.io/csb-qucsnw/static/js/2.b21dc211.chunk.js",
+    "static/js/2.b21dc211.chunk.js.map": "https://rkgoudra.github.io/csb-qucsnw/static/js/2.b21dc211.chunk.js.map",
+    "index.html": "https://rkgoudra.github.io/csb-qucsnw/index.html",
+    "static/css/main.d13cdb17.chunk.css.map": "https://rkgoudra.github.io/csb-qucsnw/static/css/main.d13cdb17.chunk.css.map",
+    "static/js/2.b21dc211.chunk.js.LICENSE.txt": "https://rkgoudra.github.io/csb-qucsnw/static/js/2.b21dc211.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50997dc8.js",
+    "static/js/2.b21dc211.chunk.js",
+    "static/css/main.d13cdb17.chunk.css",
+    "static/js/main.3bdbceb9.chunk.js"
+  ]
+}
